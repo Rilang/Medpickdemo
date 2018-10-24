@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medpickdemo</string>
+    <string name="store_product">Store Product</string>
+    <string name="linktosite">
+        <a herf="http://www.google.com">Link</a>
+    </string>
+</resources>
